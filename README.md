@@ -1,5 +1,5 @@
-[![Socket Badge](https://socket.dev/api/badge/npm/package/fca-cyber)](https://socket.dev/npm/package/fca-cyber)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abdullarahaman)
+[![Socket Badge](https://socket.dev/api/badge/npm/package/fca-project-orion)](https://socket.dev/npm/package/fca-project-orion)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ivancotacte)
 
 ## Important !
 
@@ -11,7 +11,7 @@
 
 + Original Project(Deprecated): https://github.com/Schmavery/facebook-chat-api
 + This is The Defunct Project https://github.com/KanzuXHorizon/Fca-Horizon-Remastered and Redeveloped By KanzuXHorizon
-+ Remade by Abdulla Rahaman (https://www.facebook.com/abdullah.rahaman.49) (https://github.com/abdullarahaman)
++ Remade by Ivan Cotacte (https://www.facebook.com/icotacteeee) (https://github.com/ivancotacte)
 
 ## Support Language :
 
@@ -28,11 +28,11 @@ Facebook already exists and allows users to create Api for Chatbots 😪 Here =>
 
 If You Want To Use It, Download It By:
 ```bash
-npm i fca-cyber
+npm i fca-project-orion
 ```
 or
 ```bash
-npm install fca-cyber
+npm install fca-project-orion
 ```
 
 It Will Download To node_modules (Your Lib) - Note Replit Will Not Show Anywhere To Find 😪
@@ -41,11 +41,11 @@ It Will Download To node_modules (Your Lib) - Note Replit Will Not Show Anywhere
 
 If You Want To Use The Latest Or Updated Version Then Go To Terminal Or Command Promt Type:
 ```bash
-npm install fca-cyber@latest
+npm install fca-project-orion@latest
 ```
 Or
 ```bash
-npm i fca-cyber@latest
+npm i fca-project-orion@latest
 ```
 
 ## If You Want To Test Api
@@ -56,7 +56,7 @@ Please Use With Test Account => [Facebook Whitehat Accounts](https://www.faceboo
 ## Using
 
 ```javascript
-const login = require("fca-cyber"); // get it from lib
+const login = require("fca-project-imran"); // get it from lib
 
 // log in
 login({email: "Gmail Account", password: "Your Facebook Password"}, (err, api) => {
@@ -72,10 +72,8 @@ login({email: "Gmail Account", password: "Your Facebook Password"}, (err, api) =
 ```
 
 As a result, it will imitate you as shown below:
-<img width="517" alt="screen shot 2016-11-04 at 14 36 00" src="">
-<img width="517" alt="screen shot 2016-11-04 at 14 36 00" src="">
-<img width="517" alt="screen shot 2016-11-04 at 14 36 00" src="">
-
+<img width="517" alt="screen shot 2016-11-04 at 14 36 00" src="./imrantest.png">
+<img width="517" alt="screen shot 2016-11-04 at 14 36 00" src="./ivancotacte2.jpg">
 If You Want Advanced Use Then Use The Bot Types Listed Above!
 
 ## List
@@ -98,7 +96,7 @@ You Need To Go To File Mirai.js, Then Find Line
 And Replace It With:
 
 ```js
-     var login = require('fca-cyber')
+     var login = require('fca-project-imran')
 ```
 
 After that, run normally!
@@ -119,7 +117,7 @@ __Instructions With Appstate__
 
 ```js
 const fs = require("fs");
-const login = require("fca-cyber");
+const login = require("fca-project-imran");
 
 var credentials = {email: "FB_EMAIL", password: "FB_PASSWORD"}; // account information
 
