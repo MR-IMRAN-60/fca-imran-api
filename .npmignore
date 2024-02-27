@@ -1,0 +1,8 @@
+*.sqlite
+CountTime.json
+./Extra/Database/*.sqlite
+/node_modules
+package-lock.json
+node_modules
+replit.nix
+.replit
